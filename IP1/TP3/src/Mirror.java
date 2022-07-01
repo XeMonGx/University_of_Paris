@@ -43,7 +43,7 @@ class Mirror {
         System.out.println(reverse("elle"));
         System.out.println(myReverse("elle"));
         verif("0");
-        for(int i=1;i<=5;i++){
+        for(int i=4;i<=50;i++){
             verif(wordFromDict(i));
         }
     }
